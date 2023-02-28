@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LoggerTestApp</string>
+    <string name="btn1_string_name">Button 1</string>
+    <string name="btn2_string_name">Button 2</string>
+    <string name="btn3_string_name">Button 3</string>
+    <string name="btn4_string_name">Button 4</string>
+</resources>
