@@ -13,5 +13,5 @@ and the choice of programming language is Kotlin
 
 - Room Database
 - Kotlin Coroutines
-- Viewmodel and LiveDate
+- Viewmodel and LiveData
 - Mockito
